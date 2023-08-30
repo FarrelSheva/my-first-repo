@@ -1,5 +1,5 @@
-Nama    : Kevin Ivan Eda Radhiyya
+Nama    : Farrel Sheva Alkautsar
 
-NPM     : 2201233210
+NPM     : 2206030344
 
-Kelas   : PBP B
+Kelas   : PBP A
